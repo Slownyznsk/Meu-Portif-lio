@@ -127,6 +127,7 @@ header h1{
     align-items: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     overflow: hidden;
+    border: 1px, solid rgba(245, 245, 245, 0.685);
 }
 
 .card:hover {
